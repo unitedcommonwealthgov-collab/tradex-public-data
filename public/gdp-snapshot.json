@@ -1,0 +1,90 @@
+{
+  "updated": "2026-11-25T21:56:56.738304+00:00",
+  "countries": [
+    {
+      "id": "thessara",
+      "short_name": "Thessara",
+      "amount_euro": 30688995836861.0
+    },
+    {
+      "id": "novara",
+      "short_name": "Novara",
+      "amount_euro": 517887386240.0
+    },
+    {
+      "id": "zvlokiquix",
+      "short_name": "Zvlokiquix",
+      "amount_euro": 409172069242.0
+    },
+    {
+      "id": "dechikely",
+      "short_name": "Dechikely",
+      "amount_euro": 336799154484.0
+    },
+    {
+      "id": "guangzhou",
+      "short_name": "Guangzhou",
+      "amount_euro": 235760557066.0
+    },
+    {
+      "id": "javnia",
+      "short_name": "Javnia",
+      "amount_euro": 175910586698.0
+    },
+    {
+      "id": "rilicon",
+      "short_name": "Rilicon",
+      "amount_euro": 175590172140.0
+    },
+    {
+      "id": "nordstjerne",
+      "short_name": "Nordstjerne",
+      "amount_euro": 175147881383.0
+    },
+    {
+      "id": "new-valdoria",
+      "short_name": "New Valdoria",
+      "amount_euro": 166059400605.0
+    },
+    {
+      "id": "ivroyia",
+      "short_name": "Ivroyia",
+      "amount_euro": 151363865145.0
+    },
+    {
+      "id": "jossman",
+      "short_name": "Jossman",
+      "amount_euro": 100000000000.0
+    },
+    {
+      "id": "militech-neuroniaco",
+      "short_name": "Militech-Neuroniaco",
+      "amount_euro": 100000000000.0
+    },
+    {
+      "id": "north-dakoda",
+      "short_name": "North Dakoda",
+      "amount_euro": 100000000000.0
+    },
+    {
+      "id": "novo-albinia",
+      "short_name": "Novo Albinia",
+      "amount_euro": 100000000000.0
+    },
+    {
+      "id": "pletho",
+      "short_name": "Pletho",
+      "amount_euro": 100000000000.0
+    },
+    {
+      "id": "phasedoria",
+      "short_name": "Phasedoria",
+      "amount_euro": 99990000000.0
+    },
+    {
+      "id": "the-holy-empire-of-deidadios",
+      "short_name": "Deidadios",
+      "amount_euro": 23304381634.0
+    }
+  ]
+}
