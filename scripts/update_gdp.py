@@ -46,6 +46,21 @@ def add_history(data, out):
         for country in data["countries"]:
             old = baseline["gdp"].get(country["id"]) if baseline else None
             country[field] = round((country["amount_euro"] - old) / old * 100, 4) if old is not None and old > 0 else None
+    # Display a shorter, explicitly labelled comparison until daily history exists.
+    for country in data["countries"]:
+        country["display_change"] = country["change_24h"]
+        country["comparison_hours"] = None
+        if country["change_24h"] is not None:
+            target = now - timedelta(days=1)
+            daily = min((r for r in records if abs((datetime.fromisoformat(r["updated"]) - target).total_seconds()) <= 3600), key=lambda r: abs((datetime.fromisoformat(r["updated"]) - target).total_seconds()))
+            country["comparison_hours"] = round((now - datetime.fromisoformat(daily["updated"])).total_seconds() / 3600, 2)
+        else:
+            eligible = [r for r in records if (now - datetime.fromisoformat(r["updated"])).total_seconds() <= 86400 and r["gdp"].get(country["id"], 0) > 0]
+            if eligible:
+                first = eligible[0]
+                old = first["gdp"][country["id"]]
+                country["display_change"] = round((country["amount_euro"] - old) / old * 100, 4)
+                country["comparison_hours"] = round((now - datetime.fromisoformat(first["updated"])).total_seconds() / 3600, 2)
     records.append({"updated": data["updated"], "gdp": {c["id"]: c["amount_euro"] for c in data["countries"]}})
     history_path.write_text(json.dumps({"records": records}, ensure_ascii=False, separators=(",", ":"), allow_nan=False) + "\n", encoding="utf-8")
 
