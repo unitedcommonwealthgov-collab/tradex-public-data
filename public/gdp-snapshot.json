@@ -1,90 +1,141 @@
 {
-  "updated": "2026-11-25T21:56:56.738304+00:00",
+  "updated": "2026-11-26T01:28:53.939009+00:00",
   "countries": [
     {
       "id": "thessara",
       "short_name": "Thessara",
-      "amount_euro": 30688995836861.0
+      "amount_euro": 30774925025204.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "novara",
       "short_name": "Novara",
-      "amount_euro": 517887386240.0
+      "amount_euro": 519699992091.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "zvlokiquix",
       "short_name": "Zvlokiquix",
-      "amount_euro": 409172069242.0
+      "amount_euro": 410399585449.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "dechikely",
       "short_name": "Dechikely",
-      "amount_euro": 336799154484.0
+      "amount_euro": 336799154484.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "guangzhou",
       "short_name": "Guangzhou",
-      "amount_euro": 235760557066.0
+      "amount_euro": 235831285233.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "javnia",
       "short_name": "Javnia",
-      "amount_euro": 175910586698.0
+      "amount_euro": 176209634695.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "rilicon",
       "short_name": "Rilicon",
-      "amount_euro": 175590172140.0
+      "amount_euro": 175642849191.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "nordstjerne",
       "short_name": "Nordstjerne",
-      "amount_euro": 175147881383.0
+      "amount_euro": 175480662357.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "new-valdoria",
       "short_name": "New Valdoria",
-      "amount_euro": 166059400605.0
+      "amount_euro": 166059400605.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "ivroyia",
       "short_name": "Ivroyia",
-      "amount_euro": 151363865145.0
-    },
-    {
-      "id": "jossman",
-      "short_name": "Jossman",
-      "amount_euro": 100000000000.0
-    },
-    {
-      "id": "militech-neuroniaco",
-      "short_name": "Militech-Neuroniaco",
-      "amount_euro": 100000000000.0
-    },
-    {
-      "id": "north-dakoda",
-      "short_name": "North Dakoda",
-      "amount_euro": 100000000000.0
-    },
-    {
-      "id": "novo-albinia",
-      "short_name": "Novo Albinia",
-      "amount_euro": 100000000000.0
-    },
-    {
-      "id": "pletho",
-      "short_name": "Pletho",
-      "amount_euro": 100000000000.0
+      "amount_euro": 151197364894.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "phasedoria",
       "short_name": "Phasedoria",
-      "amount_euro": 99990000000.0
+      "amount_euro": 100079991000.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
+    },
+    {
+      "id": "jossman",
+      "short_name": "Jossman",
+      "amount_euro": 100030000000.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
+    },
+    {
+      "id": "pletho",
+      "short_name": "Pletho",
+      "amount_euro": 100030000000.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
+    },
+    {
+      "id": "militech-neuroniaco",
+      "short_name": "Militech-Neuroniaco",
+      "amount_euro": 100000000000.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
+    },
+    {
+      "id": "north-dakoda",
+      "short_name": "North Dakoda",
+      "amount_euro": 100000000000.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
+    },
+    {
+      "id": "novo-albinia",
+      "short_name": "Novo Albinia",
+      "amount_euro": 99970000000.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     },
     {
       "id": "the-holy-empire-of-deidadios",
       "short_name": "Deidadios",
-      "amount_euro": 23304381634.0
+      "amount_euro": 23311372948.0,
+      "change_24h": null,
+      "change_7d": null,
+      "change_30d": null
     }
   ]
 }
