@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T01:35:01.075434+00:00",
+  "updated": "2026-11-26T04:11:02.259925+00:00",
   "countries": [
     {
       "id": "thessara",
@@ -9,7 +9,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.28,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "novara",
@@ -19,7 +19,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.35,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "zvlokiquix",
@@ -29,7 +29,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.3,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "dechikely",
@@ -39,7 +39,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "guangzhou",
@@ -49,7 +49,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "javnia",
@@ -59,7 +59,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.17,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "rilicon",
@@ -69,7 +69,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "nordstjerne",
@@ -79,7 +79,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.19,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "new-valdoria",
@@ -89,7 +89,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "ivroyia",
@@ -99,7 +99,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": -0.11,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "phasedoria",
@@ -109,7 +109,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.09,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "jossman",
@@ -119,7 +119,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "pletho",
@@ -129,7 +129,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "militech-neuroniaco",
@@ -139,7 +139,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "north-dakoda",
@@ -149,7 +149,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "novo-albinia",
@@ -159,7 +159,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": -0.03,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     },
     {
       "id": "the-holy-empire-of-deidadios",
@@ -169,7 +169,7 @@
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 3.63
+      "comparison_hours": 6.23
     }
   ]
 }
