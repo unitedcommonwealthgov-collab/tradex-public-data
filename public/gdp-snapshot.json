@@ -1,175 +1,175 @@
 {
-  "updated": "2026-11-27T15:11:13.237918+00:00",
+  "updated": "2026-11-27T23:29:57.513821+00:00",
   "countries": [
     {
       "id": "thessara",
       "short_name": "Thessara",
       "amount_euro": 30888792247797.0,
-      "change_24h": null,
+      "change_24h": 0.37,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.37,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "novara",
       "short_name": "Novara",
       "amount_euro": 521570912062.0,
-      "change_24h": null,
+      "change_24h": 0.36,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.36,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "zvlokiquix",
       "short_name": "Zvlokiquix",
       "amount_euro": 411630784205.0,
-      "change_24h": null,
+      "change_24h": 0.3,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.3,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "dechikely",
       "short_name": "Dechikely",
       "amount_euro": 336799154484.0,
-      "change_24h": null,
+      "change_24h": 0.0,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "guangzhou",
       "short_name": "Guangzhou",
       "amount_euro": 235902034618.0,
-      "change_24h": null,
+      "change_24h": 0.03,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "javnia",
       "short_name": "Javnia",
       "amount_euro": 176509191073.0,
-      "change_24h": null,
+      "change_24h": 0.17,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.17,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "nordstjerne",
       "short_name": "Nordstjerne",
       "amount_euro": 175866719814.0,
-      "change_24h": null,
+      "change_24h": 0.0,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "rilicon",
       "short_name": "Rilicon",
       "amount_euro": 175695542045.0,
-      "change_24h": null,
+      "change_24h": 0.03,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "new-valdoria",
       "short_name": "New Valdoria",
       "amount_euro": 166059400605.0,
-      "change_24h": null,
+      "change_24h": 0.0,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "ivroyia",
       "short_name": "Ivroyia",
       "amount_euro": 151061287266.0,
-      "change_24h": null,
+      "change_24h": -0.09,
       "change_7d": null,
       "change_30d": null,
       "display_change": -0.09,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "phasedoria",
       "short_name": "Phasedoria",
       "amount_euro": 100250126984.0,
-      "change_24h": null,
+      "change_24h": 0.17,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.17,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "jossman",
       "short_name": "Jossman",
       "amount_euro": 100060009000.0,
-      "change_24h": null,
+      "change_24h": 0.03,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "pletho",
       "short_name": "Pletho",
       "amount_euro": 100060009000.0,
-      "change_24h": null,
+      "change_24h": 0.03,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "militech-neuroniaco",
       "short_name": "Militech-Neuroniaco",
       "amount_euro": 100000000000.0,
-      "change_24h": null,
+      "change_24h": 0.0,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "north-dakoda",
       "short_name": "North Dakoda",
       "amount_euro": 100000000000.0,
-      "change_24h": null,
+      "change_24h": 0.0,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.0,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "novo-albinia",
       "short_name": "Novo Albinia",
       "amount_euro": 99940009000.0,
-      "change_24h": null,
+      "change_24h": -0.03,
       "change_7d": null,
       "change_30d": null,
       "display_change": -0.03,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     },
     {
       "id": "the-holy-empire-of-deidadios",
       "short_name": "Deidadios",
       "amount_euro": 23318366359.0,
-      "change_24h": null,
+      "change_24h": 0.03,
       "change_7d": null,
       "change_30d": null,
       "display_change": 0.03,
-      "comparison_hours": 16.15
+      "comparison_hours": 24.47
     }
   ]
 }
